@@ -1,0 +1,12 @@
+{
+  "proxyless": true,
+  "debug": true,
+  "threads": 10,
+  "delay": 0.1,
+  "max_retries": 5,
+  "client_id": "YOUR_CLIENT_ID",
+  "client_secret": "YOUR_CLIENT_SECRET",
+  "redirect_uri": "https://your-redirect-uri.com",
+  "include_tokens": true,
+  "output": "output/authed_tokens.txt"
+}
